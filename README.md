@@ -3,8 +3,47 @@
 . 🚀 Front-end | UI and Ux developer
 . 🎓 Origamid
 . 📌 Based in São Paulo - Brazil
+. 📓
 
-Technologies I'm using and always learning📓
+## [Animais Fantásticos](./animais-fantasticos)
+
+### Stack utilizada
+***Front-end:*** HTML, CSS e JavaScript
+
+<a href="https://iguita.github.io/projects-origamid/animais-fantasticos/">
+  <img src="./assets/animais-fantasticos.png" />
+</a>
+
+## [Wildbeast](./wildbeast)
+
+### Stack utilizada
+***Front-end:*** HTML e CSS
+
+<a href="https://iguita.github.io/projects-origamid/wildbeast/">
+  <img src="./assets/wildbeast.png">
+</a>
+
+
+## [FlexBlog](./flexblog)
+
+### Stack utilizada
+***Front-end:*** HTML e CSS
+
+<a href="https://iguita.github.io/projects-origamid/flexblog/">
+  <img src="./assets/flexblog.png">
+</a>
+
+
+## [Bikcraft](./bikcraft)
+
+### Stack utilizada
+***Front-end:*** HTML e CSS
+
+<a href="https://iguita.github.io/projects-origamid/bikcraft/">
+  <img src="./assets/bikcraft.png">
+</a>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="20" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="React" height="20" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
