@@ -12,7 +12,7 @@
 ***Front-end:*** HTML, CSS e JavaScript
 
 <a href="https://github.com/iguita/animais-fantasticos">
-  <img src="./assets/animais-fantasticos.png" />
+  <img src=" https://github.com/iguita/assets/blob/main/assets/animais-fantasticos.png " />
 </a>
 
 ## [Wildbeast](./wildbeast)
