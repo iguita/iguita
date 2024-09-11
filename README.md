@@ -1,16 +1,17 @@
 ## Hi, I'm Igor
 
-. 🚀 Front-end | UI and Ux developer
-. 🎓 Origamid
+. 🚀 Front-end | UI and Ux developer - Origamid
+. 🎓 Etec Dra Ruth Cardoso -  Tecnico em Desenvol
 . 📌 Based in São Paulo - Brazil
-. 📓
+. 📓 I currently manage warranty processes, aiming to optimize the quality of service provision and customer service. I am studying to be a technician in systems development where I am acquiring a solid base in the fundamentals and application of programming logic.
+
 
 ## [Animais Fantásticos](./animais-fantasticos)
 
 ### Stack utilizada
 ***Front-end:*** HTML, CSS e JavaScript
 
-<a href="https://iguita.github.io/projects-origamid/animais-fantasticos/">
+<a href="https://github.com/iguita/animais-fantasticos">
   <img src="./assets/animais-fantasticos.png" />
 </a>
 
@@ -19,7 +20,7 @@
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
 
-<a href="https://iguita.github.io/projects-origamid/wildbeast/">
+<a href="https://github.com/iguita/wildbeast">
   <img src="./assets/wildbeast.png">
 </a>
 
@@ -29,7 +30,7 @@
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
 
-<a href="https://iguita.github.io/projects-origamid/flexblog/">
+<a href="https://github.com/iguita/flexblog">
   <img src="./assets/flexblog.png">
 </a>
 
@@ -39,7 +40,7 @@
 ### Stack utilizada
 ***Front-end:*** HTML e CSS
 
-<a href="https://iguita.github.io/projects-origamid/bikcraft/">
+<a href="https://github.com/iguita/bikcraft">
   <img src="./assets/bikcraft.png">
 </a>
 
