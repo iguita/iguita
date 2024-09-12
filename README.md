@@ -5,46 +5,6 @@
 . 📌 Based in São Paulo - Brazil
 . 📓 I currently manage warranty processes, aiming to optimize the quality of service provision and customer service. I am studying to be a technician in systems development where I am acquiring a solid base in the fundamentals and application of programming logic.
 
-
-## [Animais Fantásticos](./animais-fantasticos)
-
-### Stack utilizada
-***Front-end:*** HTML, CSS e JavaScript
-
-<a href="https://github.com/iguita/animais-fantasticos">
-  <img src=" https://github.com/iguita/assets/blob/main/assets/animais-fantasticos.png " />
-</a>
-
-## [Wildbeast](./wildbeast)
-
-### Stack utilizada
-***Front-end:*** HTML e CSS
-
-<a href="https://github.com/iguita/wildbeast">
-  <img src="./assets/wildbeast.png">
-</a>
-
-
-## [FlexBlog](./flexblog)
-
-### Stack utilizada
-***Front-end:*** HTML e CSS
-
-<a href="https://github.com/iguita/flexblog">
-  <img src="./assets/flexblog.png">
-</a>
-
-
-## [Bikcraft](./bikcraft)
-
-### Stack utilizada
-***Front-end:*** HTML e CSS
-
-<a href="https://github.com/iguita/bikcraft">
-  <img src="./assets/bikcraft.png">
-</a>
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="20" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="React" height="20" width="60" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
