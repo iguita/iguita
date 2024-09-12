@@ -1,4 +1,4 @@
-## Hi, I'm Igor
+## Olá meu nobres eu sou o Igor, Seja Bem Vindo.
 
 . 🚀 Front-end | UI and Ux developer - Origamid
 <br>
@@ -6,9 +6,9 @@
 <br>
 . 🎓  Analise e Desenvolvimento de sistemas  - Estácio
 <br>
-. 📌 Based in São Paulo - Brazil
+. 📌 São Paulo - Brasil
 <br>
-. 📓 I currently manage warranty processes, aiming to optimize the quality of service provision and customer service. I am studying to be a technician in systems development where I am acquiring a solid base in the fundamentals and application of programming logic.
+. 📓 Atualmente faço a gestão de processos de garantia, visando otimizar qualidade de prestação de serviço e atendimento ao cliente, estou cursando técnico em desenvolvimento de sistemas adquirindo uma base solida nos fundamentos e aplicação da logica de programação.
 
 Acesse meu portifolio:
 https://iguita.github.io/ProjectOrigamid/
@@ -31,7 +31,7 @@ https://iguita.github.io/ProjectOrigamid/
 
 </div>
   
-  ## Get in touch
+  ## Contato
  
 <div> 
   <a href="https://instagram.com/iguita" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
