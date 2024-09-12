@@ -1,11 +1,13 @@
 ## Hi, I'm Igor
 
 . 🚀 Front-end | UI and Ux developer - Origamid
-br
-. 🎓 Etec Dra Ruth Cardoso -  Tecnico em Desenvol
-br
+<br>
+. 🎓  Tecnico em Desenvolvimento de sistemas  - Etec Dra Ruth Cardoso
+<br>
+. 🎓  Analise e Desenvolvimento de sistemas  - Estácio
+<br>
 . 📌 Based in São Paulo - Brazil
-br
+<br>
 . 📓 I currently manage warranty processes, aiming to optimize the quality of service provision and customer service. I am studying to be a technician in systems development where I am acquiring a solid base in the fundamentals and application of programming logic.
 
 <div style="display: inline_block"><br>
