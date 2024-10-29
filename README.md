@@ -12,6 +12,8 @@
 
 Acesse meu portifolio:
 https://iguita.github.io/ProjectOrigamid/
+https://iguita.github.io/Clone-Netflix---7Days-of-code-HTML/
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="20" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
